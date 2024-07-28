@@ -1,4 +1,4 @@
-# Plugins Recomendados para desarrollo web
+# Plugins Recomendados para Visual Estudio Code en desarrollo web
 
 ## [Phind](https://marketplace.visualstudio.com/items?itemName=phind.phind)
 
