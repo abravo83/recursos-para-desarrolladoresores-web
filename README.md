@@ -14,7 +14,7 @@
 - Recursos de ayuda
 - Recursos educativos
 
-## ¿Còmo colaborar?
+## ¿Cómo colaborar?
 
 Bueno, la verdad es que mis proyectos en github no han sido núnca colaborativos, así que ahora mismo estoy un poco verde en este punto.
 
