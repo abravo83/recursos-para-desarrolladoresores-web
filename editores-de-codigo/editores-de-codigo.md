@@ -9,7 +9,7 @@ Vamos a comenzar por el más recomendable actualmente para todas las plataformas
 - Por su relativa facilidad de uso (Para un principiante puede parecer un mundo pero realmente uno se hace rápido con él).
 - Porque a día de hoy es casi el estándar de la industria.
 
-Tenemos una sección de PLUGINS PARA VISUAL STUDIO CODE muy recomendable.
+Tenemos una sección de [PLUGINS PARA VISUAL STUDIO CODE](./visual-studio-code/plugins-visual-studio-code.md) muy recomendable.
 
 ## Atom (IDE)
 
