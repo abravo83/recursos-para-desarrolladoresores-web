@@ -22,8 +22,12 @@ Supongo que me puedes hacer un pull request. No estoy seguro, pero creo haber vi
 
 Las directrices serían:
 
-1. poner todo en MarkDown, hacer _opiniones fundadas_ de las herramienta, para servir de guía a la gente que aún no tiene conocimientos para elegir unas herramientas u otras.
+1. poner todo en MarkDown
 
-2. Ser respetuoso con el contenido de los demás: Si, por ejemplo, ManzDev tiene chuletas que se descargan via dar un email, no debemos publicar la chuleta directamente, sino un enlace al lugar de descarga de ManzDev, ya que es un requisito para tener ese recurso, aunque sea grauito, dar la dirección de email.
+2. hacer _opiniones fundadas_ de las herramienta, para servir de guía a la gente que aún no tiene conocimientos para elegir unas herramientas u otras.
 
-3. Ser consistente con el estilo. Aunque esto está por definir, pero una vez tengamos un estilo hay que ser consistentes 😅.
+3. Contenido _principiantes friendly_.
+
+4. Ser respetuoso con el contenido de los demás: Si, por ejemplo, ManzDev tiene chuletas que se descargan via dar un email, no debemos publicar la chuleta directamente, sino un enlace al lugar de descarga de ManzDev, ya que es un requisito para tener ese recurso, aunque sea grauito, dar la dirección de email.
+
+5. Ser consistente con el estilo. Aunque esto está por definir, pero una vez tengamos un estilo hay que ser consistentes 😅.
