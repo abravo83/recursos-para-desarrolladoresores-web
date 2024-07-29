@@ -35,3 +35,7 @@ Te puede servir para marcarte cosas importantes o pendientes.
  * ! En rojo
  */
 ```
+
+## [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+
+Si te gusta GitKraken, o si has oído hablar de él, Gitlens es un plugin opensource del mismo equipo. Te permite hacer muchas de las cosas que se pueden hacer con gitkraken directamente en VS Code: Historial de Archivo, GitBlame por línea, árbol de commits... todo y más en VS Code.

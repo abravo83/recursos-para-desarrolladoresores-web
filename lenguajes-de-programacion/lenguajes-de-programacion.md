@@ -35,6 +35,6 @@ Como siempre, aprenderlo, se aprende usándolo.
 
 Estudiarlo, practicarlo, etc:
 [Javascrip.info](https://es.javascript.info/) Es un tutorial completo y amigable para principiantes, salvo quizás la página de inicio, que acongoja un poco. Tu ve a introducción y "palante" 😉.
-[FreeCodeCamp en Español - Curso Gratuito a base de ejercícios](https://www.freecodecamp.org/espanol/) ->Haz el certificado de algoritmos de Javascript y Estructuras de Datos
+[FreeCodeCamp en Español - Curso Gratuito a base de ejercícios](https://www.freecodecamp.org/espanol/) -> Haz el certificado de algoritmos de Javascript y Estructuras de Datos.
 
 [MDN](https://developer.mozilla.org/es/docs/Learn/JavaScript) -> Documentación "Oficial" de Javascript. Es más completa pero un poco menos amigable, aunque tiene gemas escondidas muy interesantes.
