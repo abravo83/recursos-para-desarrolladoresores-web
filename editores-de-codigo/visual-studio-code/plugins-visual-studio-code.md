@@ -1,5 +1,10 @@
 # Plugins Recomendados para Visual Estudio Code en desarrollo web
 
+## [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
+Desde tu código permite desplegar un pequeño servidor de desarrollo con actualización automática cada vez que guardes cambios.
+Fundamental para desarrollo sin frameworks (Desarrollar usando sólo HTML, CSS y JS, sin cosas como Angular, React, Vue...).
+
 ## [Phind](https://marketplace.visualstudio.com/items?itemName=phind.phind)
 
 IA Gratuita de Apoyo para consultas cuando te quedas atascado.

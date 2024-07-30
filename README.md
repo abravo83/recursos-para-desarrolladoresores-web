@@ -6,7 +6,7 @@
 1. Editores de código (IDEs), plugins, atajos de teclado de editores, etc. 🖊️: -> [Aquí](./editores-de-codigo/editores-de-codigo.md)<-
    ( No te olvides de visitar la sección de [Plugins para Visual Studio Code](./editores-de-codigo/visual-studio-code/plugins-visual-studio-code.md) )
 2. Recursos de Referencia: Chuletas (Cheat Sheets) de referencia rápida 📓. (En tareas pendientes)
-3. Recursos de ayuda (Para cuando nos atascamos) 🛟 (En tareas pendientes).
+3. Recursos de ayuda (Para cuando nos atascamos) [Aquí](/recursos_ayuda/recursos-ayuda.md) 🛟 (En tareas pendientes).
 4. Recursos educativos: 🧑‍🏫 (En tareas pendientes).
 
 ## Tareas Pendientes:
