@@ -10,6 +10,7 @@ Vamos a comenzar por el más recomendable actualmente para todas las plataformas
 - Porque a día de hoy es casi el estándar de la industria.
 
 Tenemos una sección de [PLUGINS PARA VISUAL STUDIO CODE](./visual-studio-code/plugins-visual-studio-code.md) muy recomendable.
+Tenemos una sección de [ATAJOS PARA VISUAL STUDIO CODE](./visual-studio-code/atajos-visual-studio-code.md) muy recomendable.
 
 ## Atom (IDE)
 
