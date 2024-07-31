@@ -27,5 +27,5 @@ Tenemos una sección de [ATAJOS PARA VISUAL STUDIO CODE](./visual-studio-code/at
 ### Otros
 
 - [Notepad ++](https://notepad-plus-plus.org/) Es un editor ligero para editar algo de forma rápida.
-- [WebStrom](https://www.jetbrains.com/webstorm/) (OJO! - No es gratuito)
+- [WebStrom](https://www.jetbrains.com/webstorm/) (OJO! - No es grauito)
 - [NeoVim](https://neovim.io/)
